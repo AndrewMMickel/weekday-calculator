@@ -1,0 +1,22 @@
+body {
+  background-color: #94849B;
+  text-align: center;
+}
+
+
+h1 {
+  font-family: 'Times New Roman', serif;
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+#date-form form {
+  text-align: center;
+  font: 18px;
+}
